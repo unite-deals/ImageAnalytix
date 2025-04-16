@@ -6,4 +6,4 @@ easyocr
 sumy
 textblob
 scikit-learn
-transformers
+transformers==4.35.2
